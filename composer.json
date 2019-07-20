@@ -3,7 +3,6 @@
   "type": "library",
   "description": "This package are used for calculating factorial",
   "keywords": ["factorial"],
-  "version": "1.0.0",
   "license": "MIT",
   "authors": [
       {
