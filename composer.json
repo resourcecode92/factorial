@@ -4,7 +4,7 @@
   "description": "This package are used for calculating factorial",
   "keywords": ["factorial"],
   "license": "MIT",
-  "minimum-stability": "stable",
+  "homepage": "https://github.com/resourcecode92/factorial",
   "authors": [
       {
         "name" : "Syahriga Syahrul",
