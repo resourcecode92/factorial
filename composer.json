@@ -1,0 +1,15 @@
+{
+  "name": "cubuss/factorial",
+  "type": "library",
+  "description": "This package are only has factorial",
+  "keywords": ["factorial"],
+  "license": "MIT",
+  "authors": [
+      {
+        "name" : "Syahriga Syahrul",
+        "email": "rigasprogamer@gmail.com",
+        "homepage": "www.xyz.id",
+        "role": "Developer"
+      }
+  ]
+}
