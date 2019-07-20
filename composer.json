@@ -4,6 +4,7 @@
   "description": "This package are used for calculating factorial",
   "keywords": ["factorial"],
   "license": "MIT",
+  "minimum-stability": "stable",
   "authors": [
       {
         "name" : "Syahriga Syahrul",
