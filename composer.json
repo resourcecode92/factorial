@@ -10,9 +10,13 @@
         "email": "rigasprogamer@gmail.com"
       }
   ],
+  "minimum-stability": "stable",
   "autoload": {
       "psr-4": {
           "cubss\\Factorial\\" :"src/"
       }
+  },
+  "require": {
+      "php": "^5.3.2 || ^7.0"
   }
 }
