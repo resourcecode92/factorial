@@ -1,15 +1,18 @@
 {
   "name": "cubuss/factorial",
   "type": "library",
-  "description": "This package are only has factorial",
+  "description": "This package are used for calculating factorial",
   "keywords": ["factorial"],
   "license": "MIT",
   "authors": [
       {
         "name" : "Syahriga Syahrul",
         "email": "rigasprogamer@gmail.com",
-        "homepage": "www.xyz.id",
-        "role": "Developer"
       }
-  ]
+  ],
+  "autoload": {
+      "psr-4": {
+          "cubss\\Factorial\\" :"src/"
+      }
+  }
 }
