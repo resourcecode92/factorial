@@ -13,7 +13,7 @@
   "minimum-stability": "stable",
   "autoload": {
       "psr-4": {
-          "cubss\\Factorial\\" :"src/"
+          "cubuss\\Factorial\\" :"src/"
       }
   },
   "require": {
