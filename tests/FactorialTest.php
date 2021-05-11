@@ -4,9 +4,19 @@ namespace Rigasyahrul\Factorial\Tests;
 
 use PHPUnit\Framework\TestCase;
 use Rigasyahrul\Factorial\Factorial;
+use Exception;
 
 class FactorialTest extends TestCase
 {
+    /** @test */
+    public function calculate_lower_than_one()
+    {
+        $factorial = new Factorial();
+
+        $this->expectException(Exception::class);
+        $factorial->calculate(0);
+    }
+
     /** @test */
     public function it_return_a_one_factorial()
     {
